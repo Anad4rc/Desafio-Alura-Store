@@ -4,9 +4,9 @@
 Este projeto de análise de dados foi desenvolvido como parte de um desafio da formação Data Science da Alura, com o objetivo de analisar o desempenho de 4 lojas e recomendar qual loja possui o menor desempenho para que o seu João possa vender.
 
 ### 🚩 Tecnologias e Bibliotecas Utilizadas
-Python 3.11
-Pandas - Manipulação de dados
-Matplotlib - Visualização gráfica
+- Python 3.11
+- Pandas - Manipulação de dados
+- Matplotlib - Visualização gráfica
 
 ### 📊 Etapas da Análise
 1. 💵 Faturamento Total por Loja
