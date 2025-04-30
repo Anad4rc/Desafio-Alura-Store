@@ -1,5 +1,48 @@
 # Desafio-Alura-Store
 
+### 📌 Sobre
+Este projeto de análise de dados foi desenvolvido como parte de um desafio da formação Data Science da Alura, com o objetivo de analisar o desempenho de 4 lojas e recomendar qual loja possui o menor desempenho para que o seu João possa vender.
+
+### 🚩 Tecnologias e Bibliotecas Utilizadas
+Python 3.11
+Pandas - Manipulação de dados
+Matplotlib - Visualização gráfica
+
+### 📊 Etapas da Análise
+1. 💵 Faturamento Total por Loja
+Soma os valores da coluna Preço para estimar o faturamento.
+Gráfico de barras para facilitar a visualização
+2. 🎯 Categoria doa produtos mais e menos vendidos
+Agrupamento por categorias
+Gráfico de barras agrupados
+
+4. ✨ Avaliações Médias
+Análise da coluna Avaliação da compra.
+Gráfico de pizza
+5. 🛒 Produtos Mais e Menos Vendidos
+Contagem dos produtos que mais se destacam por loja.
+Gráfico de de barras horizontal
+6. 🚚 Frete Médio
+Cálculo da média da coluna Frete de cada loja.
+Gráfico de linhas
+
+### 🛠 Como Executar o Projeto
+- Clone este repositório:
+````
+git clone https://github.com/seu-usuario/projeto-analise-lojas.git
+````
+- Instale os pacotes necessários:
+````
+pip install -r requirements.txt
+````
+- Execute o notebook:
+````
+jupyter notebook analise_lojas.ipynb
+````
+### ❗ Atenção
+- Certifique-se de estar usando a versão correta do Python (3.11 ou superior).
+- Conexão com a internet é necessária para carregamento das urls dos datasets das lojas
+
 ## 📝 Relatório Final – Recomendação de Venda
 ### 📊 Introdução
 Neste relatório, analisamos os dados de vendas e desempenho das quatro lojas da Alura Store, com o objetivo de recomendar ao Senhor João qual delas deve ser vendida. A análise considera:
